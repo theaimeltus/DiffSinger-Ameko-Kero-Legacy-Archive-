@@ -5,6 +5,7 @@ Ameko Kero is a character-based vocal synth created by HoodyP / HoodyP, in which
 You can check more info on the character, the terms of service. credits and the project here: https://hoodypprojectameko.carrd.co/
 
 Please check the "Releases" page for the download of these builds!
+
 The page currently archived the following:
 - Version 1.0 - Discord Exclusive Release (Beta Build)
 - Version 1.05 - Public Release (TENGEN Build)
