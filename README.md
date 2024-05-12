@@ -8,5 +8,5 @@ Please check the "Releases" page for the download of these builds!
 
 The page currently archived the following:
 - Version 1.0 - Discord Exclusive Release (Beta Build)
-- Version 1.05 - Public Release (TENGEN Build)
+- Version 1.05 - First Public Release (TENGEN Build)
 - Version 1.1 - Reflow Build
