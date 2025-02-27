@@ -11,3 +11,4 @@ The page currently archived the following:
 - Version 1.05 - First Public Release (TENGEN Build)
 - Version 1.1 - Reflow Build
 - Version 1.2-Mb5.0 - Millefeuille Build
+- Version 1.3-MbPa0.8 - Patisserie Build
